@@ -1,9 +1,7 @@
 {
-    "name": "com.bovinelabs.nsubstitute",
-    "description": "A package to easily add Roslyn Analyzers to Unity projects.",
-    "version": "2.0.3",
-    "unity": "2018.3",
-    "displayName": "NSubstitute",
-    "dependencies": {         
-    }
+  "name": "com.bovinelabs.nsubstitute",
+  "description": "A package to easily add NSubstitute to Unity Projects.",
+  "version": "2.0.3",
+  "unity": "2017.1",
+  "displayName": "NSubstitute"
 }
